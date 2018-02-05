@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar_meizhi"
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimary"
+        app:title="ceshi2"
+        app:titleTextColor="@color/white"
+        android:layout_height="?android:attr/actionBarSize"  />
+
+    <com.liaoinstan.springview.widget.SpringView
+        android:id="@+id/springview_meizhi"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/toolbar_meizhi">
+
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recycler_view_meizhi"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:background="#ffffff"
+            />
+
+    </com.liaoinstan.springview.widget.SpringView>
+
+
+</RelativeLayout>

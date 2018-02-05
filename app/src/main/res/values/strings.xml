@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="daily_stars">我的收藏</string>
+    <string name="daily_about">关于</string>
+    <string name="daily_setting">关于</string>
+
+    <string name="daily_read">每日推荐</string>
+    <string name="daily_one">每日一文</string>
+    <string name="daily_good_words">金句良语</string>
+    <string name="daily_nav_gank">干货妹知</string>
+</resources>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.jsoup\jsoup\1.10.3\b842f960942503cf1abbcc8c173a7f2c19d43726\jsoup-1.10.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\jsoup-1.10.3-bafcc610fc577c145850e2776345e6f6285ea8cb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\converter-gson-2.1.0-fc6d109c83c05cddded4b5ea732ed5dd7c938086.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-34081a67d6ba11fd0a5e81309bfea18f80da6f25.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.github.chrisbanes.photoview\library\1.2.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="81aa0e8e77d948204aa6754019c6f3c04dd922e3">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-058916d0b46f2f71b808d46458ab8015e67845de.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-c6e2aab32a1b597c55375562e4c6d2f813125fed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\adapter-rxjava\2.1.0\693eddc23e87ab13f9cf5001707ce8e7e1d1ff01\adapter-rxjava-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="693eddc23e87ab13f9cf5001707ce8e7e1d1ff01">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\adapter-rxjava-2.1.0-a922f2c9139fd2cbbf2500b5aa528f1e500fa2f5.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1-af30b5120028114019e4e7a065ad67fd8106a35f.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5a2386ad9bfff580b206a7fe305cdccd00798159">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-741dcd93fe7990b55847cef9d8cb3c330226b7cc.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-1dcc06055a0cf90a517c79299703a9ede24928ed.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.liaoinstan.springview\library\1.2.6\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="69fa933cdb0ded211ad967cd86ac50f7d1750f90">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-43c70abafc469d68464895c11004e776d7009e4e.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.yqritc\recyclerview-flexibledivider\1.2.9\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a03e6e942bcc46a8d01c2da5d8a2147ecab113d">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-9d5983d592560e13059d6607f6634a738d52caee.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-beb8bc61d9a65237d39302dfda0e8bf29a7b4f22.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex\rxjava\1.1.6\2586312cd2b8a511e4c6236736f5a039fc0f2273\rxjava-1.1.6.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2586312cd2b8a511e4c6236736f5a039fc0f2273">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\rxjava-1.1.6-11e5c01617ee667d4a45ba948a656c898b69cbfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.0\c4ba5371a29ac9b2ad6129b1d39ea38750043eff\gson-2.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\gson-2.8.0-eca52502deb48db964b5e6d39d16c5eaa7bb0998.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.ldoublem.thumbUplib\ThumbUplib\0.5\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="71ede1c33cee460e83b4b3be432d137df0b83049">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-f0bef4c4dd0b90e4eddf078f13fae7df038994c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\eventbus-3.0.0-338198e230e883acd6c9c82ca46ba5fc3096755c.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-5acc15e25c5caf0296f90c71cd69e0d1e29adc1f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.0\2b802460eea20f8f2ad9c08c74e0f14718e88aa9\okhttp-3.3.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\okhttp-3.3.0-01cc990dcf2d17d688f9fc2e7c93ea22339e41ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\okio-1.8.0-06f7f952010e37a20e0067d81e65675288b9e24f.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-5ed62cf91add8f29f59a411e9c6ae8ea9af8f5a4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\retrofit-2.1.0-02cdaa5f093e78b272a8b951b62057cb62740b8d.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\App\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\classes-eff49e1ce252aba7e9c4da8f2a197628885ba7b3.jar" />
+    </item>
+    <item
+        jar="D:\360Downloads\android_studio\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1-7d13b2093d14215da1ab9da35f3db67e4f501f42.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\360Downloads\App\app\build\intermediates\pre-dexed\debug\glide-3.7.0-1f3ddf859a86296da03fddcf50d19f29d652df81.jar" />
+    </item>
+
+</items>

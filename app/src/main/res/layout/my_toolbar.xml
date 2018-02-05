@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+android:theme="@style/toolbar_theme"
+定义返回按钮的风格
+-->
+<android.support.design.widget.AppBarLayout
+    android:id="@+id/about_appbar"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:theme="@style/toolbar_theme">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/my_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        app:popupTheme="@style/ToolbarPopupTheme">
+        <TextView
+            android:id="@+id/toolbar_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="我的toolbarsdfakjsdfjsoifjejfkklsdjfjsdfjskdf"
+            android:ellipsize="end"
+            android:maxLines="1"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            />
+    </android.support.v7.widget.Toolbar>
+</android.support.design.widget.AppBarLayout>
